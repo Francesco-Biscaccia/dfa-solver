@@ -1,0 +1,5 @@
+A BC
+B EC
+C BD
+D*ED
+E*ED
